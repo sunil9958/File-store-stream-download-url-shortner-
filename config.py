@@ -96,7 +96,7 @@ class Var(object):
     if HAS_SSL:
         URL = "https://file-store-stream-url-shortner-b2e830663a34.herokuapp.com"
     else:
-        URL = "https://file-store-stream-url-shortner-b2e830663a34.herokuapp.com"
+        URL = "https://file-store-stream-url-shortner-b2e830663a34.herokuapp.com/"
 
 
 
